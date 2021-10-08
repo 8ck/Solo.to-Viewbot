@@ -1,0 +1,16 @@
+C:\Users\a\source\repos\soloviewbot\bin\Debug\net5.0\soloviewbot.exe
+C:\Users\a\source\repos\soloviewbot\bin\Debug\net5.0\soloviewbot.deps.json
+C:\Users\a\source\repos\soloviewbot\bin\Debug\net5.0\soloviewbot.runtimeconfig.json
+C:\Users\a\source\repos\soloviewbot\bin\Debug\net5.0\soloviewbot.runtimeconfig.dev.json
+C:\Users\a\source\repos\soloviewbot\bin\Debug\net5.0\soloviewbot.dll
+C:\Users\a\source\repos\soloviewbot\bin\Debug\net5.0\ref\soloviewbot.dll
+C:\Users\a\source\repos\soloviewbot\bin\Debug\net5.0\soloviewbot.pdb
+C:\Users\a\source\repos\soloviewbot\obj\Debug\net5.0\soloviewbot.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\soloviewbot\obj\Debug\net5.0\soloviewbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\source\repos\soloviewbot\obj\Debug\net5.0\soloviewbot.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\soloviewbot\obj\Debug\net5.0\soloviewbot.AssemblyInfo.cs
+C:\Users\a\source\repos\soloviewbot\obj\Debug\net5.0\soloviewbot.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\soloviewbot\obj\Debug\net5.0\soloviewbot.dll
+C:\Users\a\source\repos\soloviewbot\obj\Debug\net5.0\ref\soloviewbot.dll
+C:\Users\a\source\repos\soloviewbot\obj\Debug\net5.0\soloviewbot.pdb
+C:\Users\a\source\repos\soloviewbot\obj\Debug\net5.0\soloviewbot.genruntimeconfig.cache
